@@ -4,7 +4,16 @@ function eval() {
 }
 
 function expressionCalculator(expr) {
-    // write your solution here
+
+    function exptToRPN(expr) {
+
+    }
+    function rpnToAnswer(rpn){
+
+    }
+    function getPrrioritet(symbol){
+        
+    }
 }
 
 module.exports = {
